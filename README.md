@@ -11,9 +11,9 @@ This project was developed in **Java** implementing jswing as a graphical interf
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](src//main/resources/Dashboard.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](src//main/resources/Garantapro.png)
 
 ## Features
 
